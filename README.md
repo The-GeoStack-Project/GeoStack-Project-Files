@@ -7,5 +7,5 @@ All the Project Files related to The GeoStack Project to make Open Content re-us
 - GeoStack-Document-Files: the original ODT files created with [LibreOffice](https://libreoffice.org/) Writer.
 - GeoStack-Images: the editable PNG images used in the documents created with [diagrams.net](https://www.diagrams.net/).
 - GeoStack-Logo: The GeoStack Project's blue 'Compass-Clock' logo files in PNG and JPG.
-- GeoStack-Photos-Cranes-Open-Content: the JPG photo files of cranes (Grus grus) used in the documents and videos.
+- GeoStack-Photos: the JPG photo files of cranes (Grus grus) and other photos used in the documents and videos.
 - GeoStack-Video-Cover: the GIMP XCF file and PNG image files for title pages used in the [Shotcut](http://shotcut.org/) video editor.
